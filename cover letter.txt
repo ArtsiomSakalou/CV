@@ -1,0 +1,14 @@
+Hello!
+
+I have learned about open vacancy Junior QA in your company from recommendations on jobs.tut.by. I would like to nominate me on this position.
+
+Why me?
+
+Perhaps, you might be interested that in December 2019 I finished Basics Software Testing course in A1QA, received a letter of recommendation and certificate of successful conclusion. Also I learned to work with Jira, conduct functional, non-functional, ad hoc and black box testing of desktop and web apps, write test documentations, quality and bug reports. Also I have a little experience in web application development and working with MySQL, more detailed information is in CV.
+
+What about general knowledge I have an idea of software development stages and direct participation of QA team in it, and also I understand the work of different OS, browsers, dev tools, client-server architecture and stuff.
+
+Therefore, I ask that we consider my CV on Junior QA position, would be happy to get response from you, very interested to gain such experience. I am ready for any trainings, probations and test tasks.
+
+With respect,
+Artyom Sokolov.
